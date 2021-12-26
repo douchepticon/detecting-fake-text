@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/douchepticon/detecting-fake-text)](https://repl.it/github/douchepticon/detecting-fake-text)
+
 # GLTR: Giant Language Model Test Room
 Detecting text that was generated from large language models (e.g. GPT-2).
 
